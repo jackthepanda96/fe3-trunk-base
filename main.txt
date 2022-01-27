@@ -1,3 +1,4 @@
 Ini main branch
 ===========================
 Mulai kerajakan register
+buat layout field yang diperlukan
