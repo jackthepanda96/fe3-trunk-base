@@ -1,1 +1,6 @@
 Ini main branch
+Buat fitur :
+register
+login
+home page
+searching
